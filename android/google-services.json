@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "387944466952",
+    "firebase_url": "https://placeque-47156-default-rtdb.firebaseio.com",
+    "project_id": "placeque-47156",
+    "storage_bucket": "placeque-47156.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387944466952:android:13e6a57998fa10e231dfbd",
+        "android_client_info": {
+          "package_name": "com.placeque.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387944466952-9am77c9dt452043t2pnmqnpauu0ggd76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO1WR1WGOIXBNaWBSu8ZsGZH9UZaY__oQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387944466952-9am77c9dt452043t2pnmqnpauu0ggd76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387944466952:android:85c74824d3a1f64d31dfbd",
+        "android_client_info": {
+          "package_name": "dev.jideguru.FlutterSocialAppUIKit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387944466952-9am77c9dt452043t2pnmqnpauu0ggd76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO1WR1WGOIXBNaWBSu8ZsGZH9UZaY__oQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387944466952-9am77c9dt452043t2pnmqnpauu0ggd76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
